@@ -1,5 +1,2 @@
-## Web static
-**
-
-**styles**
-**images**
+# 0x01. AirBnB clone - Web static
+This directory contains solutions to ALX web static project. In this project we are expected to learn how to manipulate HTML and CSS languages.HTML is the structure of your page, it should be the first thing to write. CSS is the styling of your page, the design. The first step is to design/sketch/prototype each element by creating simple HTML static pages, following Style guide, fake content, no javascript, no data loaded from anywhere. This project is still path of the Airbnb clone project.
